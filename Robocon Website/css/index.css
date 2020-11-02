@@ -2,13 +2,12 @@
   background-color: black; 
 } 
 .navbar-custom .navbar-brand{
-  font-size: x-large;
+  font-size: large;
   color:whitesmoke;
 } 
 .navbar-custom .nav-link > a { 
   font-size: large;
   color:whitesmoke;
-  text-align: center;
 }
 body{
   padding-top: 70px;
