@@ -27,6 +27,9 @@ h3{
 .navbar-toggle, .icon-bar {
   border:1px solid orange;
 }
+.navbar-nav li{
+  text-align: center;
+}
 
 footer{
   
